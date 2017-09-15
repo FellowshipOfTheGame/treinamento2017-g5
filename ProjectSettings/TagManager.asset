@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - rightLimit
+  - Enemy
+  - leftLimit
+  - GatoNinja
+  - GatoNadador
+  - GatoEgipcio
+  - GatoKungfu
+  - CatSwitch
+  - FallDetector
+  - topLimit
+  - downLimit
+  - GatoMago
+  - GatoBruxo
+  - Caixa
+  - Esteira
+  - BG
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Solid
+  - Respawn
+  - Unlock
+  - Press
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

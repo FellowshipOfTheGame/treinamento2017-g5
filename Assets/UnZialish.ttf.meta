@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dff7d54818d106545a53e2512e0a36f4
+timeCreated: 1503365757
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: UnZialish
+  fontNames:
+  - UnZialish
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

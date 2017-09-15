@@ -1,0 +1,293 @@
+fileFormatVersion: 2
+guid: c7c44cfb37b3f7b42b5bf7dedf45f5fa
+timeCreated: 1504019444
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gato-bruxo-andando_0
+    21300002: gato-bruxo-andando_1
+    21300004: gato-bruxo-andando_2
+    21300006: gato-bruxo-andando_3
+    21300008: gato-bruxo-andando_4
+    21300010: gato-bruxo-andando_5
+    21300012: gato-bruxo-andando_6
+    21300014: gato-bruxo-andando_7
+    21300016: gato-bruxo-andando_8
+    21300018: gato-bruxo-andando_9
+    21300020: gato-bruxo-andando_10
+    21300022: gato-bruxo-andando_11
+    21300024: gato-bruxo-andando_12
+    21300026: gato-bruxo-andando_13
+    21300028: gato-bruxo-andando_14
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 125
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gato-bruxo-andando_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2424
+        width: 405
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gato-bruxo-andando_1
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 2420
+        width: 404
+        height: 254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gato-bruxo-andando_2
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 2421
+        width: 403
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gato-bruxo-andando_3
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 2420
+        width: 403
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gato-bruxo-andando_4
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 2420
+        width: 404
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gato-bruxo-andando_5
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 2421
+        width: 404
+        height: 255
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gato-bruxo-andando_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2083
+        width: 403
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gato-bruxo-andando_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2081
+        width: 405
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gato-bruxo-andando_8
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 2082
+        width: 403
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gato-bruxo-andando_9
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 2082
+        width: 404
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gato-bruxo-andando_10
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 2077
+        width: 403
+        height: 252
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gato-bruxo-andando_11
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 2076
+        width: 402
+        height: 255
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gato-bruxo-andando_12
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1749
+        width: 404
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gato-bruxo-andando_13
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 1745
+        width: 403
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

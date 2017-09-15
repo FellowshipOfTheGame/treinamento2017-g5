@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 94e30dd62cde27747992084e991c60a3
+timeCreated: 1504837388
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pussyfoot
+  fontNames:
+  - Pussyfoot
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
